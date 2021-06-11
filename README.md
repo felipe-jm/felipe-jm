@@ -1,7 +1,7 @@
 # Felipe Jung :guitar:
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-303030?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/felibread)](https://gitlab.com/felipejung)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-jung/)](https://www.linkedin.com/in/felipe-jung/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemattoseu@gmail.com)](mailto:felipemattoseu@gmail.com)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-151515?style=flat-square&logo=Gitlab&logoColor=78fe96&link=https://gitlab.com/felipejung)](https://gitlab.com/felipejung)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-151515?style=flat-square&logo=Linkedin&logoColor=78fe96&link=https://www.linkedin.com/in/felipe-jung/)](https://www.linkedin.com/in/felipe-jung/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-151515?style=flat-square&logo=Gmail&logoColor=78fe96&link=mailto:felipemattoseu@gmail.com)](mailto:felipemattoseu@gmail.com)
 
 ## Hey 👋, 
 Meu nome é Felipe Jung, sou um estudante apaixonado pelo ecossistema Javascript/Typescript e meu foco está em aprender React.js, React Native e Node.js.
