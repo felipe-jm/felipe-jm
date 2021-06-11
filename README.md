@@ -10,3 +10,5 @@ Meu nome é Felipe Jung, sou um estudante apaixonado pelo ecossistema Javascript
 - :rocket: Techs: React.js, React Native, Node.js, TypeScript, Elixir e mais!
 
 ![felipe's stats](https://github-readme-stats.vercel.app/api?username=felipe-jm&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-jm&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
