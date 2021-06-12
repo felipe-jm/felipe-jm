@@ -1,9 +1,8 @@
-# Felipe Jung :guitar:
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-151515?style=flat-square&logo=Gitlab&logoColor=78fe96&link=https://gitlab.com/felipejung)](https://gitlab.com/felipejung)
+# Felipe Jung
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-151515?style=flat-square&logo=Linkedin&logoColor=78fe96&link=https://www.linkedin.com/in/felipe-jung/)](https://www.linkedin.com/in/felipe-jung/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-151515?style=flat-square&logo=Gmail&logoColor=78fe96&link=mailto:felipemattoseu@gmail.com)](mailto:felipemattoseu@gmail.com)
 
-## Hey 👋, 
+## Hey 👋
 Meu nome é Felipe Jung, sou um estudante apaixonado pelo ecossistema Javascript/Typescript e meu foco está em aprender React.js, React Native e Node.js.
 
 - :computer: Atualmente desenvolvendo a empresa [:blue_heart: Meu Trampo](https://meutrampo.com) e estagiando com desenvolvimento em React e Django
