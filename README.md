@@ -5,7 +5,7 @@
 ## Hey 👋
 Meu nome é Felipe Jung, sou um estudante apaixonado pelo ecossistema Javascript/Typescript e meu foco está em aprender React.js, React Native e Node.js.
 
-- :rocket: Techs: React.js, React Native, Node.js, TypeScript, Django e mais!
+- :rocket: Techs: React.js, React Native, Node.js, TypeScript, Python, Django e mais!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-jm&show_icons=true&theme=dark" />
